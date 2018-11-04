@@ -1,8 +1,3 @@
-#####Laravel: 5.7
-#####Vue: 2.5
-
-After you clone this project, do the following:
-
 ```bash
 # go into the project
 cd Vue-Laravel-SPA
